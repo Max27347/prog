@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3da6cd1d-0775-4493-9475-185c21b4b71f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ggg-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/clicks.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/boss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/dragon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/fonts/lilitaone-regular-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/fonts/pusia-bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/ad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/ananas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/ananas_effect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/angel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/batterfly.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/bling.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/bomb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/boss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/boss1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/boss2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/box_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/box_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/box_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/box_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/brawl_stars_lobby.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/bubble.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/button_menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/button_menu_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/castle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/cat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/china.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/click.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/coin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/colt_av.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/cosmos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/cot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/croco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/crow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/crow_av.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/dark_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/dark_effect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/dragon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/drako.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/dyno_av.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/edgar_av.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/energy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/energy_regen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/fire.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/fire_effect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/fish_effect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/fon_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/fon_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/fon_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/friends_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/friends_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/friends_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/friends_72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/frog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/frog_effect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/ghost_effect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/gift.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/god_effect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/golem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/groot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/heart_effect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/hogwarts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/ice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/jackpot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/leaf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/leon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/leon_av.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/magic_effect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/minecraft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/minion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/mystical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/ninja_world.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/piper_av.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/pirate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/pixel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/plat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/play2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/pumpkin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/quests.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/quests2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/rai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/rocket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/rude.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/shadow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/shop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/shop2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/spider.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/spike_av.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/star_effect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/stars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/stone_effect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/syth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/theme_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/theme_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/theme_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/theme_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/theme_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/theme_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/top_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/tor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/water.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/water_effect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/water_world.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/wheel_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/images/witch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/script_autoclicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/script_box.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/script_heroes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/script_new.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/script_theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/script_up.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/script_up_energy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/script_up_recovery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/script_wheel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/templates/_nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/templates/fons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/templates/page10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/templates/page11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/templates/page2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/templates/page3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/templates/page4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/templates/page5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/templates/page6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/templates/page8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/templates/page9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/templates/upgrade.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brawl_clicker-master/templates/world_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicks.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2uAlzLp5IB3h1gMIsJXt2rzTy9m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/ggg-main",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3da6cd1d-0775-4493-9475-185c21b4b71f" name="Changes" comment="" />
+      <created>1741699520137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741699520137</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
